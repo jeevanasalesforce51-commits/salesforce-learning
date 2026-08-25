@@ -8,6 +8,7 @@
             <value><fullName>Bronze</fullName></value>
             <value><fullName>Silver</fullName></value>
             <value><fullName>Gold</fullName></value>
+            <value><fullName>Platinum</fullName></value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
