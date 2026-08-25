@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="[soap.sforce.com](http://soap.sforce.com/2006/04/metadata)">
+    <fullName>Loyalty_Tier__c</fullName>
+    <label>Loyalty Tier</label>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <value><fullName>Bronze</fullName></value>
+            <value><fullName>Silver</fullName></value>
+            <value><fullName>Gold</fullName></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
